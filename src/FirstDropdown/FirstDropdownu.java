@@ -34,5 +34,6 @@ public class FirstDropdownu {
             )
         );
         locationbox.click();
+        driver.quit();
     }
 }
